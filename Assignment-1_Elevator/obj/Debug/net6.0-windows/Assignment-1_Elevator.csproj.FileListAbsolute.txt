@@ -1,0 +1,17 @@
+D:\C#\Assignment-1_Elevator\Assignment-1_Elevator\bin\Debug\net6.0-windows\Assignment-1_Elevator.exe
+D:\C#\Assignment-1_Elevator\Assignment-1_Elevator\bin\Debug\net6.0-windows\Assignment-1_Elevator.deps.json
+D:\C#\Assignment-1_Elevator\Assignment-1_Elevator\bin\Debug\net6.0-windows\Assignment-1_Elevator.runtimeconfig.json
+D:\C#\Assignment-1_Elevator\Assignment-1_Elevator\bin\Debug\net6.0-windows\Assignment-1_Elevator.dll
+D:\C#\Assignment-1_Elevator\Assignment-1_Elevator\bin\Debug\net6.0-windows\Assignment-1_Elevator.pdb
+D:\C#\Assignment-1_Elevator\Assignment-1_Elevator\obj\Debug\net6.0-windows\Assignment_1_Elevator.Form1.resources
+D:\C#\Assignment-1_Elevator\Assignment-1_Elevator\obj\Debug\net6.0-windows\Assignment_1_Elevator.Properties.Resources.resources
+D:\C#\Assignment-1_Elevator\Assignment-1_Elevator\obj\Debug\net6.0-windows\Assignment-1_Elevator.csproj.GenerateResource.cache
+D:\C#\Assignment-1_Elevator\Assignment-1_Elevator\obj\Debug\net6.0-windows\Assignment-1_Elevator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Assignment-1_Elevator\Assignment-1_Elevator\obj\Debug\net6.0-windows\Assignment-1_Elevator.AssemblyInfoInputs.cache
+D:\C#\Assignment-1_Elevator\Assignment-1_Elevator\obj\Debug\net6.0-windows\Assignment-1_Elevator.AssemblyInfo.cs
+D:\C#\Assignment-1_Elevator\Assignment-1_Elevator\obj\Debug\net6.0-windows\Assignment-1_Elevator.csproj.CoreCompileInputs.cache
+D:\C#\Assignment-1_Elevator\Assignment-1_Elevator\obj\Debug\net6.0-windows\Assignment-1_Elevator.dll
+D:\C#\Assignment-1_Elevator\Assignment-1_Elevator\obj\Debug\net6.0-windows\refint\Assignment-1_Elevator.dll
+D:\C#\Assignment-1_Elevator\Assignment-1_Elevator\obj\Debug\net6.0-windows\Assignment-1_Elevator.pdb
+D:\C#\Assignment-1_Elevator\Assignment-1_Elevator\obj\Debug\net6.0-windows\Assignment-1_Elevator.genruntimeconfig.cache
+D:\C#\Assignment-1_Elevator\Assignment-1_Elevator\obj\Debug\net6.0-windows\ref\Assignment-1_Elevator.dll
